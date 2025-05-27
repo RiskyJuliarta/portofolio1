@@ -6,10 +6,12 @@
 }
 
 body {
+    width: 350px;
     background: linear-gradient(to right, #1e3c72, #7aa2e7);
     color: #fff;
-    min-height: 100vh;
+    min-height: 10vh;
     display: flex;
+    overflow: hidden;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -22,19 +24,19 @@ header {
 }
 .background {
     position: absolute;
-    top: 150px;
-    left: 450px;
+    top: 250px;
+    left: 100px;
     width: 150%;
     height: 150%;
     filter: blur(0px);
     z-index: -1;
 }
 .logo {
-    width: 350px;
-    height: 350px;
+    width: 160x;
+    height: 150px;
     border-radius: 50%;
     object-fit: cover;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .card {
     background-color: rgba(191, 203, 215, 0.1);
