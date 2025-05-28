@@ -33,7 +33,7 @@ header {
     top: 250px;
     left: 530px;
     width: 10%;
-    height: 50%;
+    height: 25%;
     filter: blur(0px);
     z-index: -1;
 }
