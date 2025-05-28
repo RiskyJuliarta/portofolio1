@@ -31,9 +31,9 @@ header {
 .background {
     position: absolute;
     top: 250px;
-    left: 530px;
+    left: 250px;
     width: 10%;
-    height: 25%;
+    height: 10%;
     filter: blur(0px);
     z-index: -1;
 }
