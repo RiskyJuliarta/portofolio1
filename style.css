@@ -32,8 +32,8 @@ header {
     position: absolute;
     top: 250px;
     left: 530px;
-    width: 150%;
-    height: 150%;
+    width: 50%;
+    height: 50%;
     filter: blur(0px);
     z-index: -1;
 }
