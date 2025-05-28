@@ -38,8 +38,8 @@ header {
     z-index: -1;
 }
 .logo {
-    width: 60x;
-    height: 50px;
+    width: 20x;
+    height: 30px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 10px;
